@@ -19,6 +19,7 @@
   "dependencies": {
     "@hapi/boom": "^10.0.1",
     "@whiskeysockets/baileys": "^6.5.0",
+    "axios": "^1.5.1",
     "dotenv": "^16.3.1",
     "i": "^0.3.7",
     "npm": "^10.2.0",
