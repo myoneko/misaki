@@ -1,0 +1,27 @@
+{
+  "name": "misaki",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myoneko/misaki.git"
+  },
+  "author": "myoneko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myoneko/misaki/issues"
+  },
+  "homepage": "https://github.com/myoneko/misaki#readme",
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "@whiskeysockets/baileys": "^6.5.0",
+    "dotenv": "^16.3.1",
+    "i": "^0.3.7",
+    "npm": "^10.2.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
