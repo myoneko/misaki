@@ -1,28 +1,28 @@
 {
-  "name": "misaki",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/myoneko/misaki.git"
-  },
-  "author": "myoneko",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/myoneko/misaki/issues"
-  },
-  "homepage": "https://github.com/myoneko/misaki#readme",
-  "dependencies": {
-    "@hapi/boom": "^10.0.1",
-    "@whiskeysockets/baileys": "^6.5.0",
-    "axios": "^1.5.1",
-    "dotenv": "^16.3.1",
-    "i": "^0.3.7",
-    "npm": "^10.2.0",
-    "qrcode-terminal": "^0.12.0"
-  }
+    "name": "misaki",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "run": "node index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/myoneko/misaki.git"
+    },
+    "author": "myoneko",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/myoneko/misaki/issues"
+    },
+    "homepage": "https://github.com/myoneko/misaki#readme",
+    "dependencies": {
+        "@hapi/boom": "^10.0.1",
+        "@whiskeysockets/baileys": "^6.5.0",
+        "axios": "^1.5.1",
+        "dotenv": "^16.3.1",
+        "npm": "^10.2.0",
+        "qrcode-terminal": "^0.12.0"
+    }
 }
